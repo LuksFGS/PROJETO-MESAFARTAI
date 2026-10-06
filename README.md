@@ -1,5 +1,4 @@
-# PROJETO MESAFARTAI
-# Logística e Inteligência Assistiva no Combate à Fome
+# PROJETO MESAFARTAI - Logística e Inteligência Assistiva no Combate à Fome
 
 ## Sobre o Projeto
 O MESAFARTAI é uma aplicação conversacional projetada para mitigar o desperdício de alimentos através do mapeamento ágil entre doadores e ONGs. Utilizando Processamento de Linguagem Natural (NLU) e Inteligência Assistiva, o sistema facilita a doação de alimentos próximos do vencimento, promovendo o matchmaking logístico para direcionar recursos a quem precisa em tempo recorde. 
