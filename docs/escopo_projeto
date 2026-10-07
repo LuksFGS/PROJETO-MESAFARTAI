@@ -1,0 +1,24 @@
+# Escopo do Projeto MESAFARTAI
+
+## Problema de Negócio Abordado
+O grande gargalo no combate à fome não é a falta de alimentos, mas a falta de logística ágil e comunicação eficiente. Diariamente, toneladas de alimentos próprios para consumo são descartadas por comerciantes devido à proximidade do vencimento ou pequenos defeitos. Simultaneamente, ONGs sofrem com escassez. Comerciantes não têm tempo para burocracias. O MESAFARTAI resolve isso automatizando o match e a logística de forma rápida, sem formulários extensos.
+
+## Público-Alvo
+* **Doadores:** Feirantes, supermercados, restaurantes e produtores de alimentos.
+* **Receptores (ONGs):** Abrigos, cozinhas comunitárias e organizações sociais.
+
+## Escopo das Intenções Tratadas no Chatbot
+* `cadastrar_doacao`
+* `solicitar_alimentos`
+* `consultar_status`
+* `fora_de_escopo`
+
+## Dados a Serem Coletados (Extração via Regex)
+* Tipos de alimentos
+* Quantidades (kg, caixas, unidades)
+* Prazos de validade (hoje, amanhã, 18h)
+
+## Identidade Visual - Prompt de IA
+**Ferramenta utilizada:** (Ex: Midjourney / DALL-E 3)
+**Prompt exato utilizado para gerar o logo:**
+> "A minimalist and modern vector logo for a social impact tech project called 'MESAFARTAI'. The logo should blend the concepts of food/nourishment (like a subtle plate, bowl, or leaf) with assistive technology/AI (like chat bubbles, network nodes, or digital signals). Use colors that evoke hope, sustainability, and trust, such as vibrant warm orange and tech-friendly blue. Clean white background."
