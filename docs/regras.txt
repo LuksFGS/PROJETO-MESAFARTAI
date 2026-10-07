@@ -1,1 +1,11 @@
 
+REGRAS INTERNAS E REQUISITOS - ETAPA 1 (06/10)
+
+A etapa 1 do projeto foca em estabelecer as fundações de engenharia, banco de dados e documentação:
+1. Formação do grupo (3 a 5 alunos).
+2. Criação do repositório PÚBLICO "PROJETO-MESAFARTAI" no GitHub.
+3. Criação do README.md com título, alinhamento à ODS 2 e integrantes.
+4. Criação da pasta /docs contendo as regras.txt e o escopo_projeto.md (com o prompt da IA do logotipo).
+5. Geração da identidade visual via IA, salva em assets/logo_mesafartai.png.
+6. Inclusão dos diagramas de arquitetura e fluxo na pasta /docs.
+7. Criação do script src/database.py para criar as tabelas e carga inicial de teste no SQLite (mesafartai.db).
