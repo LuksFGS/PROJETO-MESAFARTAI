@@ -1,12 +1,13 @@
 **Respostas Etapa 2 AT 7**
 1. **Árvores:** Foram usadas **80 árvores** (`n_estimators=80`).
 2. **Threshold:** O valor é **0.60** (60%).
-3. **Resultado:**
+3. **Resultado da primeira execução:**
+```
  [NLU] Modelo Random Forest e Vetorizador TF-IDF treinados com sucesso!
 
 --- BATERIA DE TESTES DE ESTRESSE NLU ---
 
-```
+
 Entrada: 'Tenho 30 kg de banana para doar'
 Intenção: cadastrar_doacao | Confiança: 0.93
 Retorno: Intenção 'cadastrar_doacao' identificada com 92.5% de confiança.
